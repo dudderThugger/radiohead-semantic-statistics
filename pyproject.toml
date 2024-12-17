@@ -18,6 +18,7 @@ gensim = "^4.3.3"
 plotly = "^5.24.1"
 nbformat = "^5.10.4"
 python-dotenv = "^1.0.1"
+openai = "^1.57.4"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.29.5"

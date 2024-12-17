@@ -3,3 +3,8 @@ notebooks
 data/GoogleNews-vectors-negative300.bin.gz
 
 .env
+Szelestey_Ádám_N2BPHM.zip
+__pycache__
+Szelestey_Ádám_N2BPHM
+.DS_Store
+poetry.lock
